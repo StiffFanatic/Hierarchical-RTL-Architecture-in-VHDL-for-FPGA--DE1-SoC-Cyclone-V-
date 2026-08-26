@@ -9,6 +9,13 @@ Diseño e implementación de dos sistemas digitales en hardware reconfigurable (
 
 ---
 
+## 👥 Autores / Integrantes
+* **Juan Manuel Gonzalez Banguero**
+* **Luis José Pinto Gonzalez**
+* **Andres David Nazarith Gomez**
+
+---
+
 ## 📌 Descripción de los Sistemas
 
 El repositorio integra dos aplicaciones completas desarrolladas a nivel de transferencia de registros (RTL):
