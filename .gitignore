@@ -1,0 +1,32 @@
+# Quartus Prime temporary and build output files
+db/
+incremental_db/
+output_files/
+simulation/
+greybox_tmp/
+hc_output/
+.qsys_edit/
+
+# Project temporary files
+*.bak
+*.orig
+*.rej
+*.rpt
+*.smsg
+*.summary
+*.jdi
+*.pin
+*.qws
+*.qmsg
+*.done
+*.pof
+*.sof
+
+# ModelSim / QuestaSim outputs
+work/
+transcript
+*.wlf
+
+# OS Files
+.DS_Store
+Thumbs.db
