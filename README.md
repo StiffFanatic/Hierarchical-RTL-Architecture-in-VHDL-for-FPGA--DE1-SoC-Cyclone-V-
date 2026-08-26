@@ -86,6 +86,7 @@ graph LR
 * **Pulso Mínimo ($0^\circ$):** $0.5\,\text{ms} = 25\,000$ ciclos.
 * **Pulso Máximo ($180^\circ$):** $3.2\,\text{ms} = 160\,000$ ciclos.
 * **Fórmula de Duración:**
+  
   $$N_{\text{high}} = \text{Pulso}_{\text{min}} + \frac{(\text{Pulso}_{\text{max}} - \text{Pulso}_{\text{min}}) \times \text{entrada}}{255}$$
 
 ---
